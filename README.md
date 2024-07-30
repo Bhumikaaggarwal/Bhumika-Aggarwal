@@ -2,7 +2,7 @@
 I am passionate software engineering student who wants to do something different from others and shine out
 <h1 align="center">Hi 👋, I'm Bhumika Aggarwal</h1>
 <h3 align="center">A passionate software engineering student from India</h3>
-<img alt="coding" width="50px" src="![image](https://github.com/user-attachments/assets/e72e99ae-8c4b-4b9c-94c4-347eb6d1972d)"></img>
+<!-- <img alt="coding" width="50px" src="![image](https://github.com/user-attachments/assets/e72e99ae-8c4b-4b9c-94c4-347eb6d1972d)"></img> -->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhumikaaggarwal&label=Profile%20views&color=0e75b6&style=flat" alt="bhumikaaggarwal" /> </p>
